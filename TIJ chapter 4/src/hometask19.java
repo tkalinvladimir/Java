@@ -16,7 +16,7 @@ public class hometask19 {
      */
 
     public static void printlnBinaryString(int x) {
-        char[] array = new char[32]; // От 0 до 31 т.к. инт весит 32 бит
+        /*char[] array = new char[32]; // От 0 до 31 т.к. инт весит 32 бит
         boolean truncate = true;
         for (int i = 31; i >= 0; i--) {  // начинаем с начала, но так как биты идут справа налево то вот так
             array[31 - i] = (x & (1 << i)) == 0 ? '0' : '1';   // от старшего бита к младшему. сравниваем с единицей. старший бит - ближе к началу массива
@@ -33,7 +33,35 @@ public class hometask19 {
         if (truncate) {  // если в массив было нечего положить то выводим 0
             System.out.print('0');
         }
-        System.out.println();
+        System.out.println();  */
+
+       /* boolean truncate = true;
+        char bit;
+        for (int i = 31; i >= 0; i--) {  // начинаем с начала, но так как биты идут справа налево то вот так
+            bit = (x & (1 << i)) == 0 ? '0' : '1';   // от старшего бита к младшему. сравниваем с единицей. старший бит - ближе к началу массива
+            if (!truncate) {
+                System.out.print(bit);
+            }
+            else if (truncate && bit == '1') {
+                truncate = false;
+                System.out.print(bit);
+            }
+        }
+        if (truncate) {  // если в массив было нечего положить то выводим 0
+            System.out.print('0');
+        }
+        System.out.println();*/
+
+
+       String c = new String();
+       for (int i = 0; i <= 31; i++) {  // начинаем с начала, но так как биты идут справа налево то вот так
+
+           c = ((x & 1) == 0 ? "0": "1") + c;   // от старшего бита к младшему. сравниваем с единицей. старший бит - ближе к началу массива
+           x = x >> 1;
+           if(x == 0 )break;
+        }
+        System.out.println(c);
+
     }
     public static void main(String[] args) {
         int a = 0xAAAAAAAA;

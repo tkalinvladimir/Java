@@ -65,8 +65,8 @@
       <file leaf-file-name="hometask19.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/hometask19.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="18" column="72" selection-start-line="18" selection-start-column="72" selection-end-line="18" selection-end-column="72" />
+            <state relative-caret-position="386">
+              <caret line="65" column="42" selection-start-line="65" selection-start-column="42" selection-end-line="65" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -706,12 +706,12 @@
       <updated>1474597188461</updated>
       <workItem from="1474597189724" duration="8409000" />
       <workItem from="1474863264552" duration="19000" />
-      <workItem from="1474863361886" duration="3499000" />
+      <workItem from="1474863361886" duration="10556000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11927000" />
+    <option name="totallyTimeSpent" value="18984000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
@@ -757,7 +757,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -889,8 +889,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hometask19.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="18" column="72" selection-start-line="18" selection-start-column="72" selection-end-line="18" selection-end-column="72" />
+        <state relative-caret-position="386">
+          <caret line="65" column="42" selection-start-line="65" selection-start-column="42" selection-end-line="65" selection-end-column="42" />
           <folding />
         </state>
       </provider>
