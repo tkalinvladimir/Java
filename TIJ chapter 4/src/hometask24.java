@@ -52,12 +52,12 @@ public class hometask24 {
                 int s = i * j;
 
                 //число s преобразовываем в строку, затем записываем в массив символов
-                char b[] = (new Integer(s)).toString().toCharArray();
+                char b[] = Integer.toString(s).toCharArray();
                 Arrays.sort(b); //сортировка массива символов
 
                 //так само поступаем с каждым множителем
-                String x = (Integer.toString(i));
-                String y = (Integer.toString(j));
+                String x = Integer.toString(i);
+                String y = Integer.toString(j);
                 //конкатенация строк (чисел-множителей)
                 String z = x + y;
                 //запись строки в массив символов
