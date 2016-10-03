@@ -72,7 +72,7 @@ public class PingPongTable extends JPanel implements GameConstants
     // вызывается метод repaint() из PingPointGameEngine
     public void paintComponent(Graphics g)
     {
-        super.paintComponent(g);  // ЗАЧЕМ?
+        super.paintComponent(g);  // ЗАЧЕМ? вызываем метод который переопределили, а потом "доделываем" что-то своё
         g.setColor(Color.GREEN);
         // Нарисовать стол
         g.fillRect(X0, Y0, TABLE_WIDTH, TABLE_HEIGHT);
