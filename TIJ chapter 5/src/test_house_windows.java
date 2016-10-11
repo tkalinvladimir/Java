@@ -9,7 +9,7 @@ public class test_house_windows {
 
 
 class House {
-    Window w1 = new Window(1);    
+    Window w1 = new Window(1);
     House() {
         System.out.println("House()");
         w3 = new Window(33);
