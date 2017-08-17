@@ -1,9 +1,13 @@
-public class App {
-    int storage(String s) {
+public class Task6
+{
+
+    int storage(String s)
+    {
         return s.length() * 2;
     }
+
     public static void main(String[] args) {
-        App a = new App();
+        Task6 a = new Task6();
         String test = "test";
         System.out.println("String \"" + test + "\" storage is: " 
                 + a.storage(test));

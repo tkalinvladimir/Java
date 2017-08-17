@@ -3,8 +3,8 @@ public class hometask13 {
         System.out.println("Inside main()");
         Cups.cup1.f(99);
     }
-    //static Cups cups1 = new Cups();
-    //static Cups cups2 = new Cups();
+    static Cups cups1 = new Cups();
+    static Cups cups2 = new Cups();
 }
 
 class Cup {
