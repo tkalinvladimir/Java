@@ -1,56 +1,48 @@
 import java.util.*;
 
-public class test {
-    public static ArrayList<Integer> s = new ArrayList<Integer>();
+public class test_inf2 {
+    static ArrayList<Integer> s = new ArrayList();
+
     static boolean isprimary(int i){
-        if ((i%2 == 0 && i != 2) || (i%3 == 0 && i != 3) || (i%5 == 0&& i != 5) || (i%7 == 0&& i != 7)){
-            return false;
-        }
-        return true;
+        return !((i % 2 == 0 && i != 2) || (i % 3 == 0 && i != 3) || (i % 5 == 0 && i != 5) || (i % 7 == 0 && i != 7));
     }
 
-    static void getMnozhitel(int N){
-            for (int i = 2; i < N / 2; i++) {
-                if (isprimary(i)) {
-                    if (N % i == 0) {
-                        //s += i;
-                        s.add(i);
-                        N = N / i;
-                        if (isprimary(N)) {
-                            //s += N;
-                            s.add(N);
-                            N = 0;
-                        }
-                        if (N > 1) {
-                            getMnozhitel(N);
-                            break;
-                        }
+    static void getMnozhitel(int N) {
+
+        for (int i = 2; i < N / 2; i++) {
+            if (isprimary(i)) {
+                if (N % i == 0) {
+                    s.add(i);
+                    N = N / i;
+                    if (isprimary(N)) {
+                        s.add(N);
+                        N = 0;
+                    }
+                    if (N > 1) {
+                        getMnozhitel(N);
+                        break;
                     }
                 }
             }
         }
-
+    }
 
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         //1 - разложить натуральное число на простые множители
         System.out.println("Введите натуральное число для разложения на множители(простые)    ");
         int N = sc.nextInt();
-        String answer = "";
         if (N > 1){
-           getMnozhitel(N);
+          getMnozhitel(N);
         }
         System.out.print(N+" = ");
 
 
-        for (int i = 0; i < s.size(); i ++) {
-            if (i == s.size()-1) {
-                System.out.println(s.get(i));
-            }
-            else{
-                System.out.print(s.get(i) + " * ");
-                }
-            }
+        for (int i = 0; i < s.size()-1; i ++) {
+            System.out.print(s.get(i) + " * ");
+        }
+        System.out.println(s.stream().skip(s.size()-1).findAny().orElse(0));
+
      /*   //2 - найти ближайшую степень двойки к заданному числу
         System.out.println("Введите натуральное число чтобы найти ближайшую степень двойки     ");
         N = sc.nextInt();
@@ -86,3 +78,4 @@ public class test {
 */
     }
 }
+                                                          
