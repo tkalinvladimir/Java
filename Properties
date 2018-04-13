@@ -24,9 +24,8 @@ public class Solution {
     public void fillInPropertiesMap() throws Exception {
         //implement this method - реализуйте этот метод
         BufferedReader r = new BufferedReader(new InputStreamReader(System.in));
-        String fileName = r.readLine();
+        FileInputStream fs = new FileInputStream(r.readLine());
         r.close();
-        FileInputStream fs = new FileInputStream(fileName);
         load(fs);
         fs.close();
     }
@@ -34,9 +33,7 @@ public class Solution {
     public void save(OutputStream outputStream) throws Exception {
         //implement this method - реализуйте этот метод
         p.clear();
-        for (Map.Entry<String, String > entry:properties.entrySet()) {
-            p.put(entry.getKey(), entry.getValue());
-        }
+        p.putAll(properties);
         p.store(outputStream,"");
     }
 
@@ -44,13 +41,10 @@ public class Solution {
         //implement this method - реализуйте этот метод
         p.clear();
         p.load(inputStream);
-        for (Map.Entry<Object, Object> entry:p.entrySet()) {
-            properties.put((String)entry.getKey(),(String)entry.getValue());
-        }
+        properties.putAll((Map)p);
     }
 
     public static void main(String[] args) {
 
     }
 }
-
