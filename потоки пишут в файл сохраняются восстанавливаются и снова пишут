@@ -1,0 +1,59 @@
+
+import java.io.*;
+
+/*
+Переопределение сериализации в потоке
+*/
+public class Solution implements Serializable, AutoCloseable {
+    transient private FileOutputStream stream;
+    private String fileName;
+
+    public Solution(String fileName) throws FileNotFoundException {
+        this.stream = new FileOutputStream(fileName);
+        this.fileName = fileName;
+    }
+
+    public void writeObject(String string) throws IOException {
+        stream.write(string.getBytes());
+        stream.write("\n".getBytes());
+        stream.flush();
+    }
+
+    private void writeObject(ObjectOutputStream out) throws IOException {
+        out.defaultWriteObject();
+    }
+
+    private void readObject(ObjectInputStream in) throws IOException, ClassNotFoundException {
+        in.defaultReadObject();
+        stream = new FileOutputStream(fileName, true);
+    }
+
+    @Override
+    public void close() throws Exception {
+        System.out.println("Closing everything!");
+        stream.close();
+    }
+
+    public static void main(String[] args) throws Exception {
+        Solution test = new Solution("e:\\shalom.txt");
+
+        test.writeObject("666");
+        test.writeObject("777");
+        test.writeObject("888");
+        test.close();
+
+        FileOutputStream fs = new FileOutputStream("e:\\tmp.bin");
+        ObjectOutputStream os = new ObjectOutputStream(fs);
+        os.writeObject(test);
+        os.flush();
+        os.close();
+
+        FileInputStream fi = new FileInputStream("e:\\tmp.bin");
+        ObjectInputStream oi = new ObjectInputStream(fi);
+        Solution loaded = null;
+        loaded = (Solution) oi.readObject();
+        oi.close();
+        loaded.writeObject("999");
+        loaded.close();
+    }
+}
