@@ -1,0 +1,136 @@
+import java.util.ArrayList;
+import java.util.List;
+
+/*
+Кроссворд
+
+Кроссворд
+
+1. Дан двумерный массив, который содержит буквы английского алфавита в нижнем регистре.
+2. Метод detectAllWords должен найти все слова из words в массиве crossword.
+3. Элемент(startX, startY) должен соответствовать первой букве слова, элемент(endX, endY) - последней.
+text - это само слово, располагается между начальным и конечным элементами
+4. Все слова есть в массиве.
+5. Слова могут быть расположены горизонтально, вертикально и по диагонали как в нормальном, так и в обратном порядке.
+6. Метод main не участвует в тестировании.
+
+Требования:
+1. В классе Solution должен существовать метод detectAllWords.
+2. В классе Solution должен существовать класс Word.
+3. Метод detectAllWords должен быть статическим.
+4. Метод detectAllWords должен быть публичным.
+5. Метод detectAllWords должен возвращать список всех слов в кроссворде (согласно условию задачи).
+*/
+public class Solution {
+    public static void main(String[] args) {
+        int[][] crossword = new int[][]{
+                {'f', 'd', 'e', 'r', 'l', 'k'},
+                {'u', 's', 'a', 'm', 'e', 'o'},
+                {'l', 'n', 'g', 'r', 'o', 'v'},
+                {'m', 'l', 'p', 'r', 'r', 'h'},
+                {'p', 'o', 'e', 'e', 'j', 'j'}
+        };
+        detectAllWords(crossword, "home", "same");
+        /*
+Ожидаемый результат
+home - (5, 3) - (2, 0)
+same - (1, 1) - (4, 1)
+         */
+    }
+
+    private static boolean findWord(int[][] crossword, Word word, int x, int y, dir d, int index) {
+        if (crossword[y][x] == word.text.charAt(index)) {
+            if (index == word.text.length()-1) {
+                word.setEndPoint(x,y);
+                return true;
+            }
+            switch (d) {
+                case UP:
+                    y--;
+                    break;
+                case DOWN:
+                    y++;
+                    break;
+                case LEFT:
+                    x--;
+                    break;
+                case RIGHT:
+                    x++;
+                    break;
+                case UL:
+                    x--;
+                    y--;
+                    break;
+                case UR:
+                    x++;
+                    y--;
+                    break;
+                case DL:
+                    x--;
+                    y++;
+                    break;
+                case DR:
+                    x++;
+                    y++;
+                    break;
+            }
+            if (x<0 || y<0 || y >= crossword.length || x >= crossword[y].length) {
+                return false;
+            }
+            return findWord(crossword,word,x,y,d,index+1);
+
+        }
+        return false;
+    }
+
+    public static List<Word> detectAllWords(int[][] crossword, String... words) {
+        List<Word> res = new ArrayList<>();
+        for (String word:words) {
+            for (int y = 0; y < crossword.length; y++) {
+                for (int x = 0; x < crossword[y].length; x++) {
+                    for (dir d : dir.values()) {
+                        Word w = new Word(word);
+                        if(findWord(crossword,w,x,y,d,0)) {
+                            w.setStartPoint(x,y);
+                            res.add(w);
+                            System.out.println(w.toString());
+                            break;
+                        }
+                    }
+                }
+            }
+        }
+        return res;
+    }
+
+    public static class Word {
+        private String text;
+        private int startX;
+        private int startY;
+        private int endX;
+        private int endY;
+
+        public Word(String text) {
+            this.text = text;
+        }
+
+        public void setStartPoint(int i, int j) {
+            startX = i;
+            startY = j;
+        }
+
+        public void setEndPoint(int i, int j) {
+            endX = i;
+            endY = j;
+        }
+
+        @Override
+        public String toString() {
+            return String.format("%s - (%d, %d) - (%d, %d)", text, startX, startY, endX, endY);
+        }
+    }
+
+    public enum dir {
+        UP, DOWN, LEFT, RIGHT, UL, UR, DL, DR;
+    }
+}
