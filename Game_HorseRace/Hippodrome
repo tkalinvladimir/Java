@@ -1,0 +1,70 @@
+import java.util.ArrayList;
+import java.util.List;
+
+public class Hippodrome {
+
+    private List<Horse> horses;
+    static Hippodrome game;
+
+    public Hippodrome(List<Horse> horses) {
+        this.horses = horses;
+    }
+
+    public List<Horse> getHorses() {
+        return horses;
+    }
+
+    public static void main(String[] args) {
+        Horse alpha = new Horse("Alpha",3,0);
+        Horse beta = new Horse("Beta",3,0);
+        Horse charlie = new Horse("Charlie",3,0);
+        List<Horse> list = new ArrayList<>();
+        list.add(alpha); list.add(beta); list.add(charlie);
+        game = new Hippodrome(list);
+        game.run();
+        game.printWinner();
+    }
+
+    void move() {
+        for (Horse horse:horses) {
+            horse.move();
+        }
+    }
+
+    void print() {
+        for (Horse horse:horses) {
+            horse.print();
+        }
+
+        for (int i = 0; i < 10; i++) System.out.println();
+    }
+
+    void run() {
+        for (int tick = 0; tick < 100; tick++) {
+            move();
+            print();
+            try {
+                Thread.sleep(200);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+
+    public Horse getWinner() {
+        double max = 0;
+        Horse res = null;
+        for (Horse horse:horses) {
+            if (horse.getDistance()>max) {
+                max = horse.getDistance();
+                res = horse;
+            }
+        }
+        return res;
+    }
+
+    public void printWinner() {
+        System.out.println("Winner is "+getWinner().getName()+"!");
+    }
+
+}
