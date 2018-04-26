@@ -1,0 +1,72 @@
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Arrays;
+import java.util.HashSet;
+
+/*
+Составить цепочку слов
+В методе main считай с консоли имя файла, который содержит слова, разделенные пробелом.
+В методе getLine используя StringBuilder расставь все слова в таком порядке, чтобы последняя буква данного слова совпадала с первой буквой следующего не учитывая регистр.
+Каждое слово должно участвовать 1 раз.
+Метод getLine должен возвращать любой вариант.
+Слова разделять пробелом.
+Вывести полученную строку на экран.
+
+Пример тела входного файла:
+Киев Нью-Йорк Амстердам Вена Мельбурн
+
+Результат:
+Амстердам Мельбурн Нью-Йорк Киев Вена
+
+Требования:
+1. Метод main должен считывать имя файла с клавиатуры.
+2. В методе getLine должен быть использован StringBuilder
+3. Метод getLine должен возвращать пустую строку(пустой StringBuilder) в случае если ему не были переданы параметры(слова).
+4. Все слова переданные в метод getLine должны быть включены в результирующую строку, если это возможно.
+5. Вывод на экран должен соответствовать условию задачи.
+6. Метод getLine не должен изменять переданные ему параметры(слова).
+*/
+public class Solution {
+    public static void main(String[] args) throws IOException {
+        BufferedReader r = new BufferedReader(new InputStreamReader(System.in));
+       String fileName = r.readLine();
+        r.close();
+      r = new BufferedReader(new FileReader(fileName));
+        String s = "";
+        while (r.ready()) {
+            s += r.readLine();
+        }
+        StringBuilder result = getLine(s.trim().split(" "));
+        System.out.println(result.toString());
+    }
+
+    public static StringBuilder getLine(String... words) {
+        String[] words2 = words.clone();
+
+        StringBuilder sb = new StringBuilder("");
+        if (words2.length == 0) return sb;
+        HashSet<Integer> set = new HashSet<>();
+        for (int i = 0; i < words2.length; i++) set.add(i);
+        Arrays.sort(words2);
+        sb.append(words2[0]);
+        set.remove(0);
+        for (int i = 1; i < words2.length; i++) {
+            for (int j = 1; j < words2.length; j++) {
+                if (sb.charAt(sb.length()-1)==words2[j].toLowerCase().charAt(0) && set.contains(j)) {
+                    set.remove(j);
+                    if (!sb.toString().trim().equals("")) sb.append(" ");
+                    sb.append(words2[j]);
+                }
+            }
+        }
+
+        for (int ost:set) {
+            if (!sb.toString().trim().equals("")) sb.append(" ");
+            sb.append(words2[ost]);
+        }
+
+        return sb;
+    }
+}
