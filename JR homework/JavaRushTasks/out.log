@@ -11312,3 +11312,106 @@
 
 2018-05-08 14:37:13 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
 2018-05-08 14:37:13 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-10 13:06:29 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-05-10 13:06:29 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.17 ----------
+
+2018-05-10 13:06:29 WARN  JavaRushTasksProjectComponent.setAutoscrolls(347) - Ошибка установки autoscrolls
+2018-05-10 13:06:29 INFO  ApacheHttpClient.createAsyncHttpClient(129) - Выбрано 1 прокси. Тип : HTTP
+2018-05-10 13:06:29 INFO  ApacheHttpClient.<init>(87) - ApacheHttpClient проинстанциирован успешно.
+2018-05-10 13:06:31 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-10 13:06:31 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-10 13:06:33 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-05-10 13:06:33 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-05-10 13:06:33 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-05-10 13:06:33 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-05-10 13:06:33 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-05-10 13:06:33 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-05-10 13:06:33 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-05-10 13:06:33 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-05-10 13:06:33 INFO  ApacheHttpClient.login(260) - JSESSIONID=86FF495A267A51171352B26F8A3A694B
+2018-05-10 13:06:33 INFO  ApacheHttpClient.refreshUserInfo(288) - responseCode = 200
+2018-05-10 13:06:34 INFO  ApacheHttpClient.refreshUserInfo(294) - Информация о пользователе получена.
+2018-05-10 13:06:34 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-05-10 13:06:34 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-05-10 13:06:39 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-10 13:06:39 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-10 13:06:41 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-10 13:06:41 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-10 13:06:42 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-10 13:07:09 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-10 13:07:09 INFO  ApacheHttpClient.getFilteredTasks(323) - responseCode = 200
+2018-05-10 13:07:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:07:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:08:11 INFO  ApacheHttpClient.getTaskTemplateInfo(340) - responseCode = 200
+2018-05-10 13:08:12 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-10 13:08:12 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-10 13:08:13 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-10 13:08:13 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-10 13:08:13 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-10 13:08:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:09:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:10:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:11:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:12:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:13:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:14:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:15:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:16:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:17:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:18:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:19:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:20:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:21:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:22:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:23:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:24:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:25:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:26:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:27:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:28:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:29:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:30:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:31:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:32:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:33:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:34:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:35:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:36:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:37:14 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-10 13:37:16 INFO  ApacheHttpClient.resetTask(310) - responseCode = 200
+2018-05-10 13:37:16 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-10 13:37:16 INFO  ApacheHttpClient.getTaskTemplateInfo(340) - responseCode = 200
+2018-05-10 13:37:17 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-10 13:37:17 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-10 13:37:17 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-10 13:37:17 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-10 13:37:18 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-10 13:37:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:38:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:39:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:40:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:41:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:42:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:43:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:44:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:45:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:46:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:47:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:48:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:49:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:50:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:51:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:52:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:53:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:54:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:55:24 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-10 13:55:24 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-10 13:55:25 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-10 13:55:26 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-05-10 13:55:26 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-10 13:55:34 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-10 13:55:38 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2018-05-10 13:55:38 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-10 13:55:38 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-10 13:55:38 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
