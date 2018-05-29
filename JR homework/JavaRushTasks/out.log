@@ -3529,3 +3529,190 @@
 2018-05-29 15:15:00 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
 2018-05-29 15:15:00 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
 2018-05-29 15:15:00 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-30 08:16:08 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-05-30 08:16:08 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.17 ----------
+
+2018-05-30 08:16:08 WARN  JavaRushTasksProjectComponent.setAutoscrolls(347) - Ошибка установки autoscrolls
+2018-05-30 08:16:08 INFO  ApacheHttpClient.createAsyncHttpClient(129) - Выбрано 1 прокси. Тип : HTTP
+2018-05-30 08:16:08 INFO  ApacheHttpClient.<init>(87) - ApacheHttpClient проинстанциирован успешно.
+2018-05-30 08:16:09 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-30 08:16:09 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-30 08:16:10 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-05-30 08:16:10 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-05-30 08:16:10 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-05-30 08:16:10 INFO  ApacheHttpClient.login(260) - JSESSIONID=4833F4D45BACC2DA56A28ED1433CB263
+2018-05-30 08:16:10 INFO  ApacheHttpClient.refreshUserInfo(288) - responseCode = 200
+2018-05-30 08:16:10 INFO  ApacheHttpClient.refreshUserInfo(294) - Информация о пользователе получена.
+2018-05-30 08:16:10 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-05-30 08:16:10 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-05-30 08:16:12 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-30 08:16:12 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-30 08:16:12 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-30 08:16:12 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-30 08:16:13 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 08:17:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:17:50 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 08:17:50 INFO  ApacheHttpClient.getFilteredTasks(323) - responseCode = 200
+2018-05-30 08:17:52 INFO  ApacheHttpClient.getTaskTemplateInfo(340) - responseCode = 200
+2018-05-30 08:17:52 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-30 08:17:52 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-30 08:17:53 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-30 08:17:53 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-30 08:17:53 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 08:17:53 INFO  ApacheHttpClient.getTaskTemplateInfo(340) - responseCode = 200
+2018-05-30 08:17:55 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-30 08:17:55 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-30 08:17:55 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-30 08:17:55 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-30 08:17:55 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 08:18:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:19:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:20:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:21:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:22:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:23:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:24:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:25:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:26:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:27:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:28:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:29:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:30:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:31:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:32:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:33:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:34:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:35:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:36:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:37:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:38:02 ERROR PassExecutorService.error(136) - Element: class com.intellij.psi.impl.source.PsiTypeElementImpl because: containing file is null
+invalidated at: see attachment
+com.intellij.psi.PsiInvalidElementAccessException: Element: class com.intellij.psi.impl.source.PsiTypeElementImpl because: containing file is null
+invalidated at: see attachment
+	at com.intellij.psi.impl.source.tree.CompositePsiElement.getContainingFile(CompositePsiElement.java:107)
+	at com.intellij.psi.impl.source.tree.CompositePsiElement.isPhysical(CompositePsiElement.java:250)
+	at com.intellij.psi.util.CachedValuesManager$1.compute(CachedValuesManager.java:138)
+	at com.intellij.psi.impl.PsiCachedValueImpl.doCompute(PsiCachedValueImpl.java:49)
+	at com.intellij.util.CachedValueBase.getValueWithLock(CachedValueBase.java:222)
+	at com.intellij.psi.impl.PsiCachedValue.getValueWithLock(PsiCachedValue.java:65)
+	at com.intellij.psi.impl.PsiCachedValueImpl.getValue(PsiCachedValueImpl.java:38)
+	at com.intellij.psi.util.CachedValuesManager.getCachedValue(CachedValuesManager.java:130)
+	at com.intellij.psi.impl.source.PsiTypeElementImpl.getType(PsiTypeElementImpl.java:62)
+	at com.intellij.psi.impl.source.tree.JavaSharedImplUtil.getType(JavaSharedImplUtil.java:49)
+	at com.intellij.psi.impl.source.tree.JavaSharedImplUtil.getType(JavaSharedImplUtil.java:45)
+	at com.intellij.psi.impl.source.PsiParameterImpl.getType(PsiParameterImpl.java:167)
+	at com.intellij.codeInsight.daemon.impl.quickfix.GeneralizeCatchFix.getText(GeneralizeCatchFix.java:44)
+	at com.intellij.codeInsight.intention.impl.IntentionActionWithTextCaching.<init>(IntentionActionWithTextCaching.java:57)
+	at com.intellij.codeInsight.intention.impl.IntentionActionWithTextCaching.<init>(IntentionActionWithTextCaching.java:52)
+	at com.intellij.codeInsight.intention.impl.IntentionListStep.wrapAction(IntentionListStep.java:193)
+	at com.intellij.codeInsight.intention.impl.IntentionListStep.a(IntentionListStep.java:171)
+	at com.intellij.codeInsight.intention.impl.IntentionListStep.wrapAndUpdateActions(IntentionListStep.java:104)
+	at com.intellij.codeInsight.intention.impl.IntentionHintComponent.updateActions(IntentionHintComponent.java:218)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.a(ShowIntentionsPass.java:257)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.doCollectInformation(ShowIntentionsPass.java:199)
+	at com.intellij.codeHighlighting.TextEditorHighlightingPass.collectInformation(TextEditorHighlightingPass.java:70)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.c(PassExecutorService.java:432)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1033)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.a(PassExecutorService.java:425)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:494)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:443)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:54)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.b(PassExecutorService.java:424)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.run(PassExecutorService.java:400)
+	at com.intellij.concurrency.JobLauncherImpl$VoidForkJoinTask$1.exec(JobLauncherImpl.java:154)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+2018-05-30 08:38:02 ERROR PassExecutorService.a(144) - IntelliJ IDEA 2016.2  Build #IU-162.1121.32
+2018-05-30 08:38:02 ERROR PassExecutorService.a(151) - JDK: 1.8.0_76-release
+2018-05-30 08:38:02 ERROR PassExecutorService.a(152) - VM: OpenJDK Server VM
+2018-05-30 08:38:02 ERROR PassExecutorService.a(153) - Vendor: JetBrains s.r.o
+2018-05-30 08:38:02 ERROR PassExecutorService.a(154) - OS: Windows 7
+2018-05-30 08:38:02 ERROR PassExecutorService.a(160) - Last Action: EditorDelete
+2018-05-30 08:38:02 ERROR PassExecutorService.error(136) - Element: class com.intellij.psi.impl.source.PsiTypeElementImpl because: containing file is null
+invalidated at: see attachment
+com.intellij.psi.PsiInvalidElementAccessException: Element: class com.intellij.psi.impl.source.PsiTypeElementImpl because: containing file is null
+invalidated at: see attachment
+	at com.intellij.psi.impl.source.tree.CompositePsiElement.getContainingFile(CompositePsiElement.java:107)
+	at com.intellij.psi.impl.source.tree.CompositePsiElement.isPhysical(CompositePsiElement.java:250)
+	at com.intellij.psi.util.CachedValuesManager$1.compute(CachedValuesManager.java:138)
+	at com.intellij.psi.impl.PsiCachedValueImpl.doCompute(PsiCachedValueImpl.java:49)
+	at com.intellij.util.CachedValueBase.getValueWithLock(CachedValueBase.java:222)
+	at com.intellij.psi.impl.PsiCachedValue.getValueWithLock(PsiCachedValue.java:65)
+	at com.intellij.psi.impl.PsiCachedValueImpl.getValue(PsiCachedValueImpl.java:38)
+	at com.intellij.psi.util.CachedValuesManager.getCachedValue(CachedValuesManager.java:130)
+	at com.intellij.psi.impl.source.PsiTypeElementImpl.getType(PsiTypeElementImpl.java:62)
+	at com.intellij.psi.impl.source.tree.JavaSharedImplUtil.getType(JavaSharedImplUtil.java:49)
+	at com.intellij.psi.impl.source.tree.JavaSharedImplUtil.getType(JavaSharedImplUtil.java:45)
+	at com.intellij.psi.impl.source.PsiParameterImpl.getType(PsiParameterImpl.java:167)
+	at com.intellij.codeInsight.daemon.impl.quickfix.GeneralizeCatchFix.getText(GeneralizeCatchFix.java:44)
+	at com.intellij.codeInsight.intention.impl.IntentionActionWithTextCaching.<init>(IntentionActionWithTextCaching.java:57)
+	at com.intellij.codeInsight.intention.impl.IntentionActionWithTextCaching.<init>(IntentionActionWithTextCaching.java:52)
+	at com.intellij.codeInsight.intention.impl.IntentionListStep.wrapAction(IntentionListStep.java:193)
+	at com.intellij.codeInsight.intention.impl.IntentionListStep.a(IntentionListStep.java:171)
+	at com.intellij.codeInsight.intention.impl.IntentionListStep.wrapAndUpdateActions(IntentionListStep.java:104)
+	at com.intellij.codeInsight.intention.impl.IntentionHintComponent.updateActions(IntentionHintComponent.java:218)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.a(ShowIntentionsPass.java:257)
+	at com.intellij.codeInsight.daemon.impl.ShowIntentionsPass.doCollectInformation(ShowIntentionsPass.java:199)
+	at com.intellij.codeHighlighting.TextEditorHighlightingPass.collectInformation(TextEditorHighlightingPass.java:70)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.c(PassExecutorService.java:432)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1033)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.a(PassExecutorService.java:425)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:494)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:443)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:54)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.b(PassExecutorService.java:424)
+	at com.intellij.codeInsight.daemon.impl.PassExecutorService$ScheduledPass.run(PassExecutorService.java:400)
+	at com.intellij.concurrency.JobLauncherImpl$VoidForkJoinTask$1.exec(JobLauncherImpl.java:154)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+2018-05-30 08:38:02 ERROR PassExecutorService.a(144) - IntelliJ IDEA 2016.2  Build #IU-162.1121.32
+2018-05-30 08:38:02 ERROR PassExecutorService.a(151) - JDK: 1.8.0_76-release
+2018-05-30 08:38:02 ERROR PassExecutorService.a(152) - VM: OpenJDK Server VM
+2018-05-30 08:38:02 ERROR PassExecutorService.a(153) - Vendor: JetBrains s.r.o
+2018-05-30 08:38:02 ERROR PassExecutorService.a(154) - OS: Windows 7
+2018-05-30 08:38:02 ERROR PassExecutorService.a(160) - Last Action: EditorDelete
+2018-05-30 08:38:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:39:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:40:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:41:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:41:33 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 08:41:34 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 08:41:34 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-30 08:41:37 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-05-30 08:41:37 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-30 08:41:49 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 08:41:49 INFO  ApacheHttpClient.getFilteredTasks(323) - responseCode = 200
+2018-05-30 08:41:55 INFO  ApacheHttpClient.getTaskTemplateInfo(340) - responseCode = 200
+2018-05-30 08:41:56 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-30 08:41:56 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-30 08:41:56 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-30 08:41:56 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-30 08:41:56 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 08:42:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:43:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:44:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:45:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:46:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:47:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:48:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:48:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:49:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:49:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:50:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:50:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:51:10 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 08:51:10 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-30 08:51:10 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 08:51:10 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:51:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 08:51:15 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-05-30 08:51:15 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-30 08:51:44 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2018-05-30 08:51:44 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-30 08:51:45 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-30 08:51:45 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
