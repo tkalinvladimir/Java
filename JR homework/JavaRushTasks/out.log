@@ -3890,3 +3890,418 @@ invalidated at: see attachment
 2018-05-30 09:56:23 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
 2018-05-30 09:56:23 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
 2018-05-30 09:56:23 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-30 10:06:08 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-05-30 10:06:08 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.17 ----------
+
+2018-05-30 10:06:08 WARN  JavaRushTasksProjectComponent.setAutoscrolls(347) - Ошибка установки autoscrolls
+2018-05-30 10:06:08 INFO  ApacheHttpClient.createAsyncHttpClient(129) - Выбрано 1 прокси. Тип : HTTP
+2018-05-30 10:06:08 INFO  ApacheHttpClient.<init>(87) - ApacheHttpClient проинстанциирован успешно.
+2018-05-30 10:06:09 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-30 10:06:09 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-30 10:06:10 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-05-30 10:06:10 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-05-30 10:06:11 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-05-30 10:06:11 INFO  ApacheHttpClient.login(260) - JSESSIONID=0C9F492E8B6AE7983416F83279833629
+2018-05-30 10:06:11 INFO  ApacheHttpClient.refreshUserInfo(288) - responseCode = 200
+2018-05-30 10:06:11 INFO  ApacheHttpClient.refreshUserInfo(294) - Информация о пользователе получена.
+2018-05-30 10:06:11 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-05-30 10:06:11 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-05-30 10:06:13 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-30 10:06:13 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-30 10:06:14 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-30 10:06:14 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-30 10:06:14 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 10:07:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:08:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:09:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:10:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:11:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:12:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:13:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:14:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:15:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:16:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:17:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:18:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:19:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:20:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:21:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:22:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:23:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:24:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:25:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:26:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:27:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:28:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:29:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:30:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:31:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:32:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:33:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:34:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:35:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:36:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:37:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:38:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:39:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:40:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:41:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:42:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:43:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:44:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:45:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:46:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:47:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:48:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:49:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:50:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:51:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:52:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:53:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:54:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:55:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:56:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:57:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:58:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 10:59:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:00:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:01:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:02:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:03:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:04:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:05:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:06:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:07:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:08:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:09:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:10:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:11:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:12:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:13:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:14:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:15:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:16:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:17:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:18:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:19:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:20:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:21:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:22:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:23:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:24:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:25:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:26:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:27:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:28:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:29:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:30:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:31:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:32:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:33:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:34:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:35:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:36:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:37:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:38:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:39:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:40:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:41:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:42:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:43:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:44:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:45:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:46:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:47:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:48:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:49:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:50:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:51:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:52:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:53:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:54:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:55:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:56:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:57:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:58:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 11:59:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:00:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:04:24 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-05-30 12:04:25 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:04:25 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:04:25 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:05:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:06:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:07:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:08:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:09:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:10:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:11:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:12:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:13:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:14:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:15:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:16:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:17:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:18:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:19:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:20:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:21:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:22:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:23:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:24:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:25:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:26:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:27:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:28:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:29:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:30:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:31:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:32:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:33:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:34:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:35:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:36:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:37:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:38:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:39:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:40:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:41:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:42:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:43:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:44:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:45:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:46:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:47:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:48:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:49:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:50:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:51:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:52:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:53:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:54:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:55:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:56:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:57:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:58:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 12:59:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:00:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:01:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:02:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:03:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:04:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:05:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:06:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:07:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:08:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:09:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:10:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:11:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:12:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:13:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:14:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:15:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:16:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:17:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:18:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:19:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:20:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:21:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:22:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:23:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:24:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:25:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:25:52 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 13:25:52 INFO  ApacheHttpClient.getFilteredTasks(323) - responseCode = 200
+2018-05-30 13:25:54 INFO  ApacheHttpClient.getTaskTemplateInfo(340) - responseCode = 200
+2018-05-30 13:25:55 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-30 13:25:55 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-30 13:25:55 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-30 13:25:55 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-30 13:25:55 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 13:26:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:27:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:28:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:29:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:30:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:31:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:32:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:33:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:34:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:35:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:36:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:37:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:38:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:38:22 ERROR PluginManager.error(136) - Element: class com.intellij.psi.impl.source.tree.java.PsiDeclarationStatementImpl because: parent is null
+invalidated at: see attachment
+com.intellij.psi.PsiInvalidElementAccessException: Element: class com.intellij.psi.impl.source.tree.java.PsiDeclarationStatementImpl because: parent is null
+invalidated at: see attachment
+	at com.intellij.psi.impl.source.tree.CompositePsiElement.getContainingFile(CompositePsiElement.java:107)
+	at com.intellij.psi.impl.smartPointers.SmartPointerManagerImpl.createSmartPsiElementPointer(SmartPointerManagerImpl.java:95)
+	at com.intellij.refactoring.introduceVariable.JavaVariableInplaceIntroducer.createFieldToStartTemplateOn(JavaVariableInplaceIntroducer.java:400)
+	at com.intellij.refactoring.introduceParameter.AbstractJavaInplaceIntroducer.createFieldToStartTemplateOn(AbstractJavaInplaceIntroducer.java:79)
+	at com.intellij.refactoring.introduceParameter.AbstractJavaInplaceIntroducer.createFieldToStartTemplateOn(AbstractJavaInplaceIntroducer.java:33)
+	at com.intellij.refactoring.introduce.inplace.AbstractInplaceIntroducer.a(AbstractInplaceIntroducer.java:216)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:122)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:100)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:86)
+	at com.intellij.refactoring.introduce.inplace.AbstractInplaceIntroducer.startInplaceIntroduceTemplate(AbstractInplaceIntroducer.java:214)
+	at com.intellij.refactoring.introduceVariable.IntroduceVariableBase$3.pass(IntroduceVariableBase.java:696)
+	at com.intellij.refactoring.introduceVariable.IntroduceVariableBase$3.pass(IntroduceVariableBase.java:667)
+	at com.intellij.refactoring.introduce.inplace.OccurrencesChooser.showChooser(OccurrencesChooser.java:93)
+	at com.intellij.refactoring.introduceVariable.IntroduceVariableBase.invokeImpl(IntroduceVariableBase.java:749)
+	at com.intellij.refactoring.introduceVariable.IntroduceVariableHandler.invoke(IntroduceVariableHandler.java:44)
+	at com.intellij.codeInsight.intention.impl.IntroduceVariableIntentionAction.invoke(IntroduceVariableIntentionAction.java:68)
+	at com.intellij.codeInsight.intention.PsiElementBaseIntentionAction.invoke(PsiElementBaseIntentionAction.java:42)
+	at com.intellij.codeInsight.intention.impl.config.IntentionActionWrapper.invoke(IntentionActionWrapper.java:61)
+	at com.intellij.codeInsight.intention.impl.ShowIntentionActionsHandler.a(ShowIntentionActionsHandler.java:186)
+	at com.intellij.openapi.application.WriteAction.run(WriteAction.java:82)
+	at com.intellij.codeInsight.intention.impl.ShowIntentionActionsHandler.a(ShowIntentionActionsHandler.java:189)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:129)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:100)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:86)
+	at com.intellij.codeInsight.intention.impl.ShowIntentionActionsHandler.chooseActionAndInvoke(ShowIntentionActionsHandler.java:185)
+	at com.intellij.codeInsight.intention.impl.IntentionListStep.d(IntentionListStep.java:265)
+	at com.intellij.openapi.application.TransactionGuardImpl.performUserActivity(TransactionGuardImpl.java:199)
+	at com.intellij.ui.popup.AbstractPopup.a(AbstractPopup.java:1390)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at com.intellij.ide.IdeEventQueue.f(IdeEventQueue.java:863)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:699)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:385)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-05-30 13:38:22 ERROR PluginManager.a(144) - IntelliJ IDEA 2016.2  Build #IU-162.1121.32
+2018-05-30 13:38:22 ERROR PluginManager.a(151) - JDK: 1.8.0_76-release
+2018-05-30 13:38:22 ERROR PluginManager.a(152) - VM: OpenJDK Server VM
+2018-05-30 13:38:22 ERROR PluginManager.a(153) - Vendor: JetBrains s.r.o
+2018-05-30 13:38:22 ERROR PluginManager.a(154) - OS: Windows 7
+2018-05-30 13:38:22 ERROR PluginManager.a(160) - Last Action: ShowIntentionActions
+2018-05-30 13:39:26 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:40:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:41:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:42:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:43:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:44:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:45:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:46:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:47:02 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 13:47:02 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-30 13:47:03 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-30 13:47:03 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 13:47:04 INFO  ApacheHttpClient.completed(27) - responseCode = 400
+2018-05-30 13:47:04 WARN  TaskCompleted.run(66) - Задача "Целостность информации" уже решена
+2018-05-30 13:47:07 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 13:47:07 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-30 13:47:08 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 13:47:10 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-05-30 13:47:10 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-30 13:47:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:48:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:49:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:50:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:51:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:52:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:53:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:54:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:55:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:55:35 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 13:55:35 INFO  ApacheHttpClient.getFilteredTasks(323) - responseCode = 200
+2018-05-30 13:55:46 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 13:55:46 INFO  ApacheHttpClient.getFilteredTasks(323) - responseCode = 200
+2018-05-30 13:55:47 INFO  ApacheHttpClient.getTaskTemplateInfo(340) - responseCode = 200
+2018-05-30 13:55:47 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-30 13:55:47 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-30 13:55:48 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-05-30 13:55:48 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-05-30 13:55:48 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 13:56:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:57:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:58:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 13:59:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 14:00:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 14:01:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 14:02:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 14:03:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 14:04:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 14:05:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 14:06:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 14:07:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 14:07:43 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 14:07:43 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-30 14:07:44 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 14:07:46 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-05-30 14:07:53 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 14:07:54 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-30 14:07:54 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 14:07:56 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-05-30 14:08:11 INFO  ApacheHttpClient.sendEvent(469) - responseCode = 200
+2018-05-30 14:08:13 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 14:08:13 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-30 14:08:14 INFO  ApacheHttpClient.getWebResourceAsStream(436) - responseCode = 200
+2018-05-30 14:08:17 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-05-30 14:08:17 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-30 14:08:21 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2018-05-30 14:08:21 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-30 14:08:22 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-30 14:08:22 INFO  ApacheHttpClient.getTask(421) - responseCode = 200
+2018-05-30 14:08:22 ERROR ObjectNode.error(136) - Editor of class com.intellij.openapi.editor.impl.EditorImpl hasn't been released:
+com.intellij.openapi.util.TraceableDisposable.ObjectNotDisposedException: See stack trace responsible for creation of unreleased object below 
+	at com.intellij.openapi.editor.impl.EditorImpl.<init>(EditorImpl.java:146)
+	at com.intellij.openapi.editor.impl.EditorFactoryImpl.a(EditorFactoryImpl.java:193)
+	at com.intellij.openapi.editor.impl.EditorFactoryImpl.createEditor(EditorFactoryImpl.java:179)
+	at com.intellij.refactoring.introduce.inplace.AbstractInplaceIntroducer.<init>(AbstractInplaceIntroducer.java:108)
+	at com.intellij.refactoring.introduceParameter.AbstractJavaInplaceIntroducer.<init>(AbstractJavaInplaceIntroducer.java:42)
+	at com.intellij.refactoring.introduceVariable.JavaVariableInplaceIntroducer.<init>(JavaVariableInplaceIntroducer.java:87)
+	at com.intellij.refactoring.introduceVariable.IntroduceVariableBase$3.pass(IntroduceVariableBase.java:693)
+	at com.intellij.refactoring.introduceVariable.IntroduceVariableBase$3.pass(IntroduceVariableBase.java:667)
+	at com.intellij.refactoring.introduce.inplace.OccurrencesChooser.showChooser(OccurrencesChooser.java:93)
+	at com.intellij.refactoring.introduceVariable.IntroduceVariableBase.invokeImpl(IntroduceVariableBase.java:749)
+	at com.intellij.refactoring.introduceVariable.IntroduceVariableHandler.invoke(IntroduceVariableHandler.java:44)
+	at com.intellij.codeInsight.intention.impl.IntroduceVariableIntentionAction.invoke(IntroduceVariableIntentionAction.java:68)
+	at com.intellij.codeInsight.intention.PsiElementBaseIntentionAction.invoke(PsiElementBaseIntentionAction.java:42)
+	at com.intellij.codeInsight.intention.impl.config.IntentionActionWrapper.invoke(IntentionActionWrapper.java:61)
+	at com.intellij.codeInsight.intention.impl.ShowIntentionActionsHandler.a(ShowIntentionActionsHandler.java:186)
+	at com.intellij.openapi.application.WriteAction.run(WriteAction.java:82)
+	at com.intellij.codeInsight.intention.impl.ShowIntentionActionsHandler.a(ShowIntentionActionsHandler.java:189)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:129)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:100)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:86)
+	at com.intellij.codeInsight.intention.impl.ShowIntentionActionsHandler.chooseActionAndInvoke(ShowIntentionActionsHandler.java:185)
+	at com.intellij.codeInsight.intention.impl.IntentionListStep.d(IntentionListStep.java:265)
+	at com.intellij.openapi.application.TransactionGuardImpl.performUserActivity(TransactionGuardImpl.java:199)
+	at com.intellij.ui.popup.AbstractPopup.a(AbstractPopup.java:1390)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at com.intellij.ide.IdeEventQueue.f(IdeEventQueue.java:863)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:699)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:385)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-05-30 14:08:22 ERROR ObjectNode.a(144) - IntelliJ IDEA 2016.2  Build #IU-162.1121.32
+2018-05-30 14:08:22 ERROR ObjectNode.a(151) - JDK: 1.8.0_76-release
+2018-05-30 14:08:22 ERROR ObjectNode.a(152) - VM: OpenJDK Server VM
+2018-05-30 14:08:22 ERROR ObjectNode.a(153) - Vendor: JetBrains s.r.o
+2018-05-30 14:08:22 ERROR ObjectNode.a(154) - OS: Windows 7
+2018-05-30 14:08:22 ERROR ObjectNode.a(160) - Last Action: TaskValidator
+2018-05-30 14:08:22 ERROR ObjectNode.a(167) - Current Command: Exit
