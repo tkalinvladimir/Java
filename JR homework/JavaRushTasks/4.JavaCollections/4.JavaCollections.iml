@@ -24,5 +24,8 @@
     <orderEntry type="library" name="junit-4.12-javadoc" level="application" />
     <orderEntry type="library" name="junit-4.12-sources" level="application" />
     <orderEntry type="library" name="junit-4.12" level="application" />
+    <orderEntry type="library" name="jsoup-1.11.3-javadoc" level="application" />
+    <orderEntry type="library" name="jsoup-1.11.3-sources" level="application" />
+    <orderEntry type="library" name="jsoup-1.11.3" level="application" />
   </component>
 </module>
