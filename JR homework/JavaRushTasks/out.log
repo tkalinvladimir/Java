@@ -11120,3 +11120,761 @@ java.lang.Throwable
 2018-12-05 02:44:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
 2018-12-05 02:45:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
 2018-12-05 02:46:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 02:47:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 02:48:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 02:49:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 02:50:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 02:51:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 02:52:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 02:53:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 02:54:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 02:55:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 02:56:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 02:57:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 02:58:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 02:59:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:00:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:01:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:02:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:03:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:04:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:05:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:06:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:07:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:08:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:09:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:10:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:11:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:12:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:13:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:14:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:15:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:16:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:17:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:18:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:19:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:20:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:21:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:22:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:23:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:24:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:25:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:26:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:27:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:28:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:29:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:30:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:31:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:32:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:33:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:34:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:35:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:36:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:37:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:38:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:39:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:40:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:41:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:42:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:43:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:44:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:45:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:46:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:47:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:48:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:49:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:50:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:51:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:52:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:53:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:54:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:55:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:56:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:57:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:58:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 03:59:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:00:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:01:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:02:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:03:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:04:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:05:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:06:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:07:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:08:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:09:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:10:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:11:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:12:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:13:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:14:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:15:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:16:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:17:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:18:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:19:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:20:56 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:21:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:22:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:23:56 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:24:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:25:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:26:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:27:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:28:57 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:30:03 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:30:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:31:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:32:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:33:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:34:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:35:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:36:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:37:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:38:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:39:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:40:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:41:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:42:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:43:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:44:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:45:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:46:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:47:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:48:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:49:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:50:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:51:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:52:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:53:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:54:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:55:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:56:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:57:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:58:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 04:59:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:00:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:01:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:02:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:03:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:04:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:05:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:06:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:07:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:08:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:09:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:10:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:11:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:12:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:13:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:14:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:15:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:16:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:17:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:18:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:19:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:20:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:21:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:22:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:23:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:24:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:25:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:26:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:27:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:28:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:29:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:30:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:31:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:32:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:33:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:34:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:35:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:36:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:37:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:38:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:39:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:40:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:41:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:42:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:43:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:44:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:45:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:46:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:47:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:48:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:49:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:50:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:51:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:52:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:53:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:54:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:55:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:56:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:57:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:58:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 05:59:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:00:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:01:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:02:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:03:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:04:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:05:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:06:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:07:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:08:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:09:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:10:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:11:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:12:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:13:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:14:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:15:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:16:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:17:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:18:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:19:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:20:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:21:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:22:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:23:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:24:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:25:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:26:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:27:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:28:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:29:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:30:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:31:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:32:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:33:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:34:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:35:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:36:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:37:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:38:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:39:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:40:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:41:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:42:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:43:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:44:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:45:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:46:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:47:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:48:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:49:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:50:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:51:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:52:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:53:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:54:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:55:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:56:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:57:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:58:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 06:59:56 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:00:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:01:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:02:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:03:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:04:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:05:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:06:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:07:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:08:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:09:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:10:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:11:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:12:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:13:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:14:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:15:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:16:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:17:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:18:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:19:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:20:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:21:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:22:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:23:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:24:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:25:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:26:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:27:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:28:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:29:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:30:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:31:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:32:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:33:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:34:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:35:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:36:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:37:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:38:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:39:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:40:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:41:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:42:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:43:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:44:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:45:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:46:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:47:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:48:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:49:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:50:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:51:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:52:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:53:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:54:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:55:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:56:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:57:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:58:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 07:59:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:00:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:01:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:02:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:03:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:04:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:05:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:06:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:07:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:08:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:09:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:10:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:11:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:12:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:13:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:14:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:15:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:16:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:17:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:18:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:19:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:20:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:21:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:22:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:23:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:24:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:25:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:26:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:27:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:28:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:29:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:30:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:31:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:32:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:33:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:34:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:35:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:36:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:37:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:38:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:39:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:40:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:41:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:42:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:43:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:44:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:45:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:46:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:47:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:48:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:49:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:50:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:51:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:52:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:53:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:54:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:55:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:56:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:57:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:58:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 08:59:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:00:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:01:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:02:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:03:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:04:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:05:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:06:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:07:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:08:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:09:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:10:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:11:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:12:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:13:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:14:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:15:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:16:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:17:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:18:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:20:01 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:20:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:21:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:22:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:23:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:24:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:25:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:26:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:27:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:28:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:29:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:30:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:31:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:32:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:33:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:34:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:35:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:36:11 ERROR PluginManager.error(136) - null
+java.lang.NullPointerException
+	at javafx.embed.swing.JFXPanel.getInputMethodRequests(JFXPanel.java:810)
+	at sun.awt.im.InputMethodAdapter.haveActiveClient(InputMethodAdapter.java:61)
+	at sun.awt.windows.WInputMethod.deactivate(WInputMethod.java:340)
+	at sun.awt.im.InputContext.deactivateInputMethod(InputContext.java:492)
+	at sun.awt.im.InputContext.focusLost(InputContext.java:458)
+	at sun.awt.im.InputContext.removeNotify(InputContext.java:627)
+	at java.awt.Component.removeNotify(Component.java:7016)
+	at java.awt.Container.removeNotify(Container.java:2820)
+	at javax.swing.JComponent.removeNotify(JComponent.java:4758)
+	at javafx.embed.swing.JFXPanel.removeNotify(JFXPanel.java:829)
+	at java.awt.Container.removeNotify(Container.java:2804)
+	at javax.swing.JComponent.removeNotify(JComponent.java:4758)
+	at java.awt.Container.removeNotify(Container.java:2804)
+	at javax.swing.JComponent.removeNotify(JComponent.java:4758)
+	at java.awt.Container.removeNotify(Container.java:2804)
+	at javax.swing.JComponent.removeNotify(JComponent.java:4758)
+	at java.awt.Container.removeNotify(Container.java:2804)
+	at javax.swing.JComponent.removeNotify(JComponent.java:4758)
+	at java.awt.Container.removeNotify(Container.java:2804)
+	at javax.swing.JComponent.removeNotify(JComponent.java:4758)
+	at java.awt.Container.removeNotify(Container.java:2804)
+	at javax.swing.JComponent.removeNotify(JComponent.java:4758)
+	at java.awt.Container.removeNotify(Container.java:2804)
+	at javax.swing.JComponent.removeNotify(JComponent.java:4758)
+	at java.awt.Container.remove(Container.java:1206)
+	at java.awt.Container.remove(Container.java:1264)
+	at com.intellij.ui.tabs.impl.JBTabsImpl.removeDeferredNow(JBTabsImpl.java:1048)
+	at com.intellij.ui.tabs.impl.JBTabsImpl.lambda$removeDeferred$5(JBTabsImpl.java:1021)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.a(FocusManagerImpl.java:634)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.a(FocusManagerImpl.java:615)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.g(FocusManagerImpl.java:585)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.b(FocusManagerImpl.java:481)
+	at com.intellij.util.ui.UIUtil.invokeLaterIfNeeded(UIUtil.java:2397)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.doWhenFocusSettlesDown(FocusManagerImpl.java:461)
+	at com.intellij.openapi.wm.impl.IdeFocusManagerImpl.doWhenFocusSettlesDown(IdeFocusManagerImpl.java:59)
+	at com.intellij.ui.tabs.impl.JBTabsImpl.removeDeferred(JBTabsImpl.java:1027)
+	at com.intellij.ui.tabs.impl.JBTabsImpl.lambda$executeSelectionChange$3(JBTabsImpl.java:921)
+	at com.intellij.openapi.util.ExecutionCallback.setExecuted(ExecutionCallback.java:58)
+	at com.intellij.openapi.util.ActionCallback.setDone(ActionCallback.java:72)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.d(FocusManagerImpl.java:289)
+	at com.intellij.util.ui.UIUtil.invokeLaterIfNeeded(UIUtil.java:2397)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.b(FocusManagerImpl.java:287)
+	at com.intellij.openapi.util.ActionCallback$ExecutedExecutionCallback.doWhenExecuted(ActionCallback.java:187)
+	at com.intellij.openapi.util.ActionCallback.doWhenDone(ActionCallback.java:111)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.a(FocusManagerImpl.java:287)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at com.intellij.ide.IdeEventQueue.f(IdeEventQueue.java:863)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:699)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:385)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-12-05 09:36:11 ERROR PluginManager.a(144) - IntelliJ IDEA 2016.2  Build #IU-162.1121.32
+2018-12-05 09:36:11 ERROR PluginManager.a(151) - JDK: 1.8.0_76-release
+2018-12-05 09:36:11 ERROR PluginManager.a(152) - VM: OpenJDK Server VM
+2018-12-05 09:36:11 ERROR PluginManager.a(153) - Vendor: JetBrains s.r.o
+2018-12-05 09:36:11 ERROR PluginManager.a(154) - OS: Windows 7
+2018-12-05 09:36:11 ERROR PluginManager.a(160) - Last Action: EditorChooseLookupItem
+2018-12-05 09:36:41 ERROR TimedOutCallback.error(136) - Focus command timed out, cmd=FocusCommand objectCount=1 objects=[EditorComponent file=file://F:/Repo/Java/JR homework/JavaRushTasks/8.Games/src/com/javarush/games/minesweeper/MinesweeperGame.java]
+java.lang.Exception
+	at com.intellij.openapi.wm.FocusCommand.saveAllocation(FocusCommand.java:144)
+	at com.intellij.openapi.wm.FocusCommand.<init>(FocusCommand.java:78)
+	at com.intellij.openapi.wm.FocusCommand$ByComponent.<init>(FocusCommand.java:171)
+	at com.intellij.openapi.wm.FocusCommand$ByComponent.<init>(FocusCommand.java:167)
+	at com.intellij.ui.tabs.impl.JBTabsImpl.requestFocus(JBTabsImpl.java:988)
+	at com.intellij.ui.tabs.impl.JBTabsImpl.executeSelectionChange(JBTabsImpl.java:916)
+	at com.intellij.ui.tabs.impl.JBTabsImpl.access$1900(JBTabsImpl.java:66)
+	at com.intellij.ui.tabs.impl.JBTabsImpl$10.run(JBTabsImpl.java:869)
+	at com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$1.a(EditorTabbedContainer.java:137)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:129)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:100)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:86)
+	at com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$1.execute(EditorTabbedContainer.java:135)
+	at com.intellij.ui.tabs.impl.JBTabsImpl._setSelected(JBTabsImpl.java:865)
+	at com.intellij.ui.tabs.impl.JBTabsImpl.select(JBTabsImpl.java:856)
+	at com.intellij.ui.tabs.impl.TabLabel$1.mousePressed(TabLabel.java:94)
+	at java.awt.AWTEventMulticaster.mousePressed(AWTEventMulticaster.java:279)
+	at java.awt.AWTEventMulticaster.mousePressed(AWTEventMulticaster.java:279)
+	at java.awt.Component.processMouseEvent(Component.java:6530)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6298)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4522)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466)
+	at java.awt.Container.dispatchEventImpl(Container.java:2280)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at com.intellij.ide.IdeEventQueue.f(IdeEventQueue.java:863)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:695)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:385)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-12-05 09:36:41 ERROR TimedOutCallback.a(144) - IntelliJ IDEA 2016.2  Build #IU-162.1121.32
+2018-12-05 09:36:41 ERROR TimedOutCallback.a(151) - JDK: 1.8.0_76-release
+2018-12-05 09:36:41 ERROR TimedOutCallback.a(152) - VM: OpenJDK Server VM
+2018-12-05 09:36:41 ERROR TimedOutCallback.a(153) - Vendor: JetBrains s.r.o
+2018-12-05 09:36:41 ERROR TimedOutCallback.a(154) - OS: Windows 7
+2018-12-05 09:36:41 ERROR TimedOutCallback.a(160) - Last Action: Run
+2018-12-05 09:36:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:36:53 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 09:36:55 INFO  HttpsURLConnectionClient.getTask(615) - responseCode = 200
+2018-12-05 09:36:58 INFO  HttpsURLConnectionClient.manualComplete(33) - responseCode = 200
+2018-12-05 09:37:23 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 09:37:24 INFO  HttpsURLConnectionClient.getTask(615) - responseCode = 200
+2018-12-05 09:37:27 INFO  HttpsURLConnectionClient.manualComplete(33) - responseCode = 200
+2018-12-05 09:37:28 INFO  HttpsURLConnectionClient.getTask(615) - responseCode = 200
+2018-12-05 09:37:48 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 09:37:49 INFO  HttpsURLConnectionClient.getFilteredTasks(270) - responseCode = 200
+2018-12-05 09:37:52 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:38:18 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 09:38:20 INFO  HttpsURLConnectionClient.getTaskTemplateInfo(296) - responseCode = 200
+2018-12-05 09:38:21 INFO  HttpsURLConnectionClient.testConnection(126) - resultHttp = true
+2018-12-05 09:38:21 INFO  HttpsURLConnectionClient.testConnection(138) - Using proxy = false
+2018-12-05 09:38:21 INFO  HttpsURLConnectionClient.testConnection(148) - resultHttps = true
+2018-12-05 09:38:23 INFO  HttpsURLConnectionClient.testConnection(126) - resultHttp = true
+2018-12-05 09:38:24 INFO  HttpsURLConnectionClient.testConnection(138) - Using proxy = false
+2018-12-05 09:38:24 INFO  HttpsURLConnectionClient.testConnection(148) - resultHttps = true
+2018-12-05 09:38:27 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 09:38:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:39:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:40:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:41:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:42:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:43:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:44:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:45:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:46:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:47:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:48:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:49:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:50:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:51:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:52:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:53:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:54:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:55:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:56:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:57:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:58:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 09:59:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:00:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:01:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:02:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:03:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:04:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:05:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:06:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:07:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:08:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:09:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:10:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:11:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:12:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:13:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:14:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:15:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:16:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:17:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:18:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:19:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:20:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:21:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:22:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:23:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:24:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:25:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:26:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:27:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:28:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:29:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:30:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:31:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:32:42 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 10:32:44 INFO  HttpsURLConnectionClient.getTask(615) - responseCode = 200
+2018-12-05 10:32:48 INFO  HttpsURLConnectionClient.manualComplete(33) - responseCode = 200
+2018-12-05 10:32:52 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:33:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:34:16 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 10:34:17 INFO  HttpsURLConnectionClient.getTask(615) - responseCode = 200
+2018-12-05 10:34:21 INFO  HttpsURLConnectionClient.manualComplete(33) - responseCode = 200
+2018-12-05 10:34:22 INFO  HttpsURLConnectionClient.getTask(615) - responseCode = 200
+2018-12-05 10:34:42 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 10:34:43 INFO  HttpsURLConnectionClient.getFilteredTasks(270) - responseCode = 200
+2018-12-05 10:34:46 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 10:34:48 INFO  HttpsURLConnectionClient.getTaskTemplateInfo(296) - responseCode = 200
+2018-12-05 10:34:49 INFO  HttpsURLConnectionClient.testConnection(126) - resultHttp = true
+2018-12-05 10:34:50 INFO  HttpsURLConnectionClient.testConnection(138) - Using proxy = false
+2018-12-05 10:34:50 INFO  HttpsURLConnectionClient.testConnection(148) - resultHttps = true
+2018-12-05 10:34:51 INFO  HttpsURLConnectionClient.testConnection(126) - resultHttp = true
+2018-12-05 10:34:52 INFO  HttpsURLConnectionClient.testConnection(138) - Using proxy = false
+2018-12-05 10:34:52 INFO  HttpsURLConnectionClient.testConnection(148) - resultHttps = true
+2018-12-05 10:34:52 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:34:54 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 10:35:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:36:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:37:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:38:53 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:39:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:40:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:41:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:42:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:43:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:44:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:45:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:46:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:47:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:48:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:49:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:50:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:51:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:52:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:53:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:54:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:55:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:56:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:57:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:58:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 10:59:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:00:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:01:38 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 11:01:40 INFO  HttpsURLConnectionClient.getTask(615) - responseCode = 200
+2018-12-05 11:01:43 INFO  HttpsURLConnectionClient.manualComplete(33) - responseCode = 200
+2018-12-05 11:01:43 INFO  HttpsURLConnectionClient.getTask(615) - responseCode = 200
+2018-12-05 11:01:47 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 11:01:48 INFO  HttpsURLConnectionClient.getFilteredTasks(270) - responseCode = 200
+2018-12-05 11:01:50 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 11:01:51 INFO  HttpsURLConnectionClient.getTaskTemplateInfo(296) - responseCode = 200
+2018-12-05 11:01:52 INFO  HttpsURLConnectionClient.testConnection(126) - resultHttp = true
+2018-12-05 11:01:53 INFO  HttpsURLConnectionClient.testConnection(138) - Using proxy = false
+2018-12-05 11:01:53 INFO  HttpsURLConnectionClient.testConnection(148) - resultHttps = true
+2018-12-05 11:01:54 INFO  HttpsURLConnectionClient.testConnection(126) - resultHttp = true
+2018-12-05 11:01:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:01:55 INFO  HttpsURLConnectionClient.testConnection(138) - Using proxy = false
+2018-12-05 11:01:55 INFO  HttpsURLConnectionClient.testConnection(148) - resultHttps = true
+2018-12-05 11:01:57 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 11:02:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:03:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:04:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:05:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:06:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:07:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:08:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:09:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:10:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:11:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:12:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:13:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:14:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:14:58 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 11:15:00 INFO  HttpsURLConnectionClient.getTask(615) - responseCode = 200
+2018-12-05 11:15:02 INFO  HttpsURLConnectionClient.manualComplete(33) - responseCode = 200
+2018-12-05 11:15:23 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 11:15:25 INFO  HttpsURLConnectionClient.getTask(615) - responseCode = 200
+2018-12-05 11:15:27 INFO  HttpsURLConnectionClient.manualComplete(33) - responseCode = 200
+2018-12-05 11:15:28 INFO  HttpsURLConnectionClient.getTask(615) - responseCode = 200
+2018-12-05 11:15:34 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 11:15:34 INFO  HttpsURLConnectionClient.getFilteredTasks(270) - responseCode = 200
+2018-12-05 11:15:37 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 11:15:38 INFO  HttpsURLConnectionClient.getTaskTemplateInfo(296) - responseCode = 200
+2018-12-05 11:15:39 INFO  HttpsURLConnectionClient.testConnection(126) - resultHttp = true
+2018-12-05 11:15:39 INFO  HttpsURLConnectionClient.testConnection(138) - Using proxy = false
+2018-12-05 11:15:39 INFO  HttpsURLConnectionClient.testConnection(148) - resultHttps = true
+2018-12-05 11:15:41 INFO  HttpsURLConnectionClient.testConnection(126) - resultHttp = true
+2018-12-05 11:15:41 INFO  HttpsURLConnectionClient.testConnection(138) - Using proxy = false
+2018-12-05 11:15:41 INFO  HttpsURLConnectionClient.testConnection(148) - resultHttps = true
+2018-12-05 11:15:43 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 11:15:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:16:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:17:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:18:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:19:17 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 11:19:19 INFO  HttpsURLConnectionClient.getTask(615) - responseCode = 200
+2018-12-05 11:19:21 INFO  HttpsURLConnectionClient.manualComplete(33) - responseCode = 200
+2018-12-05 11:19:22 INFO  HttpsURLConnectionClient.getTask(615) - responseCode = 200
+2018-12-05 11:19:26 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 11:19:27 INFO  HttpsURLConnectionClient.getFilteredTasks(270) - responseCode = 200
+2018-12-05 11:19:29 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 11:19:30 INFO  HttpsURLConnectionClient.getTaskTemplateInfo(296) - responseCode = 200
+2018-12-05 11:19:31 INFO  HttpsURLConnectionClient.testConnection(126) - resultHttp = true
+2018-12-05 11:19:32 INFO  HttpsURLConnectionClient.testConnection(138) - Using proxy = false
+2018-12-05 11:19:32 INFO  HttpsURLConnectionClient.testConnection(148) - resultHttps = true
+2018-12-05 11:19:32 INFO  HttpsURLConnectionClient.testConnection(126) - resultHttp = true
+2018-12-05 11:19:33 INFO  HttpsURLConnectionClient.testConnection(138) - Using proxy = false
+2018-12-05 11:19:33 INFO  HttpsURLConnectionClient.testConnection(148) - resultHttps = true
+2018-12-05 11:19:35 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 11:19:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:20:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:21:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:22:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:23:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:24:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:25:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:26:14 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 11:26:16 INFO  HttpsURLConnectionClient.getTask(615) - responseCode = 200
+2018-12-05 11:26:20 INFO  HttpsURLConnectionClient.manualComplete(33) - responseCode = 200
+2018-12-05 11:26:21 INFO  HttpsURLConnectionClient.getTask(615) - responseCode = 200
+2018-12-05 11:26:30 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 11:26:30 INFO  HttpsURLConnectionClient.getFilteredTasks(270) - responseCode = 200
+2018-12-05 11:26:32 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 11:26:34 INFO  HttpsURLConnectionClient.getTaskTemplateInfo(296) - responseCode = 200
+2018-12-05 11:26:35 INFO  HttpsURLConnectionClient.testConnection(126) - resultHttp = true
+2018-12-05 11:26:35 INFO  HttpsURLConnectionClient.testConnection(138) - Using proxy = false
+2018-12-05 11:26:35 INFO  HttpsURLConnectionClient.testConnection(148) - resultHttps = true
+2018-12-05 11:26:36 INFO  HttpsURLConnectionClient.testConnection(126) - resultHttp = true
+2018-12-05 11:26:37 INFO  HttpsURLConnectionClient.testConnection(138) - Using proxy = false
+2018-12-05 11:26:37 INFO  HttpsURLConnectionClient.testConnection(148) - resultHttps = true
+2018-12-05 11:26:39 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 11:26:48 INFO  HttpsURLConnectionClient.getWebResourceAsStream(658) - responseCode = 200
+2018-12-05 11:26:49 INFO  HttpsURLConnectionClient.getTask(615) - responseCode = 200
+2018-12-05 11:26:51 INFO  HttpsURLConnectionClient.manualComplete(33) - responseCode = 200
+2018-12-05 11:26:52 INFO  HttpsURLConnectionClient.getTask(615) - responseCode = 200
+2018-12-05 11:26:54 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:27:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:28:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:29:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:30:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
+2018-12-05 11:31:55 INFO  HttpsURLConnectionClient.sendEvent(709) - responseCode = 200
