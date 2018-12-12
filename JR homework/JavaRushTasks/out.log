@@ -17044,3 +17044,32 @@ Caused by: java.lang.NoSuchMethodError: org.eclipse.aether.internal.impl.Default
 2018-12-10 13:41:02 INFO  HttpsURLConnectionClient.sendEvent(712) - responseCode = 200
 2018-12-10 13:41:03 INFO  HttpsURLConnectionClient.getTask(618) - responseCode = 200
 2018-12-10 13:41:03 INFO  HttpsURLConnectionClient.getTask(618) - responseCode = 200
+2018-12-11 10:08:42 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-12-11 10:08:42 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.23 ----------
+
+2018-12-11 10:08:42 WARN  JavaRushTasksProjectComponent.setAutoscrolls(347) - Ошибка установки autoscrolls
+2018-12-11 10:08:42 INFO  ApacheHttpClient.createAsyncHttpClient(132) - Выбрано 1 прокси. Тип : SOCKS
+2018-12-11 10:08:42 INFO  ApacheHttpClient.<init>(90) - ApacheHttpClient проинстанциирован успешно.
+2018-12-11 10:08:42 INFO  ApacheHttpClient.testConnection(190) - responseCode = 501
+2018-12-11 10:08:42 WARN  ApacheHttpClient.testConnection(195) - HTTP/1.0 501 Tor is not an HTTP Proxy [Content-Type: text/html; charset=iso-8859-1] [Chunked: false]
+2018-12-11 10:08:42 INFO  ApacheHttpClient.testConnection(201) - result = false
+2018-12-11 10:08:51 INFO  HttpsURLConnectionClient.login(182) - responseCode = 200
+2018-12-11 10:08:51 INFO  HttpsURLConnectionClient.login(220) - JSESSIONID OK
+2018-12-11 10:08:52 INFO  HttpsURLConnectionClient.refreshUserInfo(834) - responseCode = 200
+2018-12-11 10:08:53 INFO  HttpsURLConnectionClient.refreshUserInfo(852) - Информация о пользователе получена.
+2018-12-11 10:08:53 INFO  HttpsURLConnectionClient.startGA(31) - GAService запущен.
+2018-12-11 10:08:53 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-12-11 10:08:55 INFO  HttpsURLConnectionClient.testConnection(127) - resultHttp = true
+2018-12-11 10:08:59 INFO  HttpsURLConnectionClient.testConnection(139) - Using proxy = false
+2018-12-11 10:08:59 INFO  HttpsURLConnectionClient.testConnection(149) - resultHttps = true
+2018-12-11 10:09:01 INFO  HttpsURLConnectionClient.testConnection(127) - resultHttp = true
+2018-12-11 10:09:05 INFO  HttpsURLConnectionClient.testConnection(139) - Using proxy = false
+2018-12-11 10:09:05 INFO  HttpsURLConnectionClient.testConnection(149) - resultHttps = true
+2018-12-11 10:09:09 INFO  HttpsURLConnectionClient.getWebResourceAsStream(661) - responseCode = 200
+2018-12-11 10:09:54 INFO  HttpsURLConnectionClient.sendEvent(712) - responseCode = 200
+2018-12-11 10:10:54 INFO  HttpsURLConnectionClient.sendEvent(712) - responseCode = 200
+2018-12-11 10:11:54 INFO  HttpsURLConnectionClient.sendEvent(712) - responseCode = 200
+2018-12-11 10:12:53 INFO  HttpsURLConnectionClient.sendEvent(712) - responseCode = 200
+2018-12-11 10:13:08 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2018-12-11 10:13:10 INFO  HttpsURLConnectionClient.getTask(618) - responseCode = 200
