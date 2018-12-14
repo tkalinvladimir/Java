@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="296167748">
+    <data-source source="LOCAL" name="SQL Server (Microsoft) - MSW0279_test_CRUD@MSW0279" uuid="39996b29-c711-49f6-ba20-95692e0814e5">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://MSW0279\MSSQLSERVER:1433;databaseName=MSW0279_test_CRUD</jdbc-url>
+    </data-source>
+  </component>
+</project>

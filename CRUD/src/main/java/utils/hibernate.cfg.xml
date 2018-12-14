@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-configuration xmlns="http://www.hibernate.org/xsd/hibernate-configuration">
+    <session-factory>
+        <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+        <property name="hibernate.connection.url">jdbc:sqlserver://MSW0279\MSSQLSERVER:1433;databaseName=MSW0279_test_CRUD</property>
+        <property name="connection.username">sa</property>
+        <property name="connection.password">GfhjkmGjkmpjdfntkz1C</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+        <property name="show_sql">true</property>
+    </session-factory>
+</hibernate-configuration>

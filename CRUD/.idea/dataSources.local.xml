@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="SQL Server (Microsoft) - MSW0279_test_CRUD@MSW0279" uuid="39996b29-c711-49f6-ba20-95692e0814e5">
+      <secret-storage>master_key</secret-storage>
+      <user-name>sa</user-name>
+      <introspection-scope>*:dbo|MSW0279_test_CRUD:*</introspection-scope>
+      <resolve-scope>MSW0279_test_CRUD:*</resolve-scope>
+    </data-source>
+  </component>
+</project>
