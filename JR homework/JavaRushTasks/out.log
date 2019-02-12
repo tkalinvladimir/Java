@@ -18077,3 +18077,75 @@ Caused by: java.lang.NoSuchMethodError: org.eclipse.aether.internal.impl.Default
 2018-12-14 15:43:31 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
 2018-12-14 15:43:32 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
 2018-12-14 15:43:32 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2018-12-24 08:03:50 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-12-24 08:03:50 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.23 ----------
+
+2018-12-24 08:03:50 WARN  JavaRushTasksProjectComponent.setAutoscrolls(347) - Ошибка установки autoscrolls
+2018-12-24 08:03:50 INFO  ApacheHttpClient.createAsyncHttpClient(132) - Выбрано 1 прокси. Тип : HTTP
+2018-12-24 08:03:50 INFO  ApacheHttpClient.<init>(90) - ApacheHttpClient проинстанциирован успешно.
+2018-12-24 08:03:52 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-24 08:03:52 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-24 08:03:53 INFO  ApacheHttpClient.login(231) - Ожидание ответа сервера.
+2018-12-24 08:03:53 INFO  ApacheHttpClient.login(231) - Ожидание ответа сервера.
+2018-12-24 08:03:54 INFO  ApacheHttpClient.login(231) - Ожидание ответа сервера.
+2018-12-24 08:03:54 INFO  ApacheHttpClient.login(235) - responseCode = 200
+2018-12-24 08:03:54 INFO  ApacheHttpClient.login(266) - JSESSIONID OK
+2018-12-24 08:03:54 INFO  ApacheHttpClient.refreshUserInfo(294) - responseCode = 200
+2018-12-24 08:03:54 INFO  ApacheHttpClient.refreshUserInfo(300) - Информация о пользователе получена.
+2018-12-24 08:03:54 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-12-24 08:03:54 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-12-24 08:03:58 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-24 08:03:58 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-24 08:04:00 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-24 08:04:00 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-24 08:04:01 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-24 08:04:54 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-24 08:05:54 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-24 08:06:08 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2018-12-24 08:06:08 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2019-01-14 13:40:19 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2019-01-14 13:40:19 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.23 ----------
+
+2019-01-14 13:40:19 WARN  JavaRushTasksProjectComponent.setAutoscrolls(347) - Ошибка установки autoscrolls
+2019-01-14 13:40:19 INFO  ApacheHttpClient.createAsyncHttpClient(132) - Выбрано 1 прокси. Тип : HTTP
+2019-01-14 13:40:19 INFO  ApacheHttpClient.<init>(90) - ApacheHttpClient проинстанциирован успешно.
+2019-01-14 13:40:21 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2019-01-14 13:40:21 INFO  ApacheHttpClient.testConnection(201) - result = true
+2019-01-14 13:40:21 INFO  ApacheHttpClient.login(231) - Ожидание ответа сервера.
+2019-01-14 13:40:21 INFO  ApacheHttpClient.login(231) - Ожидание ответа сервера.
+2019-01-14 13:40:22 INFO  ApacheHttpClient.login(231) - Ожидание ответа сервера.
+2019-01-14 13:40:22 INFO  ApacheHttpClient.login(231) - Ожидание ответа сервера.
+2019-01-14 13:40:22 INFO  ApacheHttpClient.login(231) - Ожидание ответа сервера.
+2019-01-14 13:40:22 INFO  ApacheHttpClient.login(235) - responseCode = 200
+2019-01-14 13:40:22 INFO  ApacheHttpClient.login(266) - JSESSIONID OK
+2019-01-14 13:40:22 INFO  ApacheHttpClient.refreshUserInfo(294) - responseCode = 200
+2019-01-14 13:40:22 INFO  ApacheHttpClient.refreshUserInfo(300) - Информация о пользователе получена.
+2019-01-14 13:40:22 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2019-01-14 13:40:22 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2019-01-14 13:40:28 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2019-01-14 13:40:28 INFO  ApacheHttpClient.testConnection(201) - result = true
+2019-01-14 13:40:30 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2019-01-14 13:40:30 INFO  ApacheHttpClient.testConnection(201) - result = true
+2019-01-14 13:40:31 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2019-01-14 13:41:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2019-01-14 13:42:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2019-01-14 13:43:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2019-01-14 13:44:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2019-01-14 13:45:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2019-01-14 13:46:23 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2019-01-14 13:47:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2019-01-14 13:48:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2019-01-14 13:49:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2019-01-14 13:50:22 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2019-01-14 13:51:04 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2019-01-14 13:51:04 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2019-01-14 16:50:30 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2019-01-14 16:50:32 INFO  ApacheHttpClient.login(231) - Ожидание ответа сервера.
+2019-01-14 16:50:32 INFO  ApacheHttpClient.login(231) - Ожидание ответа сервера.
+2019-01-14 16:50:32 INFO  ApacheHttpClient.login(231) - Ожидание ответа сервера.
+2019-01-14 16:50:32 INFO  ApacheHttpClient.login(235) - responseCode = 200
+2019-01-14 16:50:32 INFO  ApacheHttpClient.login(266) - JSESSIONID OK
+2019-01-14 16:50:32 INFO  ApacheHttpClient.refreshUserInfo(294) - responseCode = 200
+2019-01-14 16:50:32 INFO  ApacheHttpClient.refreshUserInfo(300) - Информация о пользователе получена.
