@@ -1,7 +1,7 @@
 package main;
 
 import accounts.AccountService;
-import dbService.DBService;
+import dbService.DBServiceImpl;
 import org.eclipse.jetty.server.Handler;
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.server.handler.HandlerList;
@@ -15,7 +15,7 @@ public class Main {
     public static void main(String[] args) throws Exception {
 
       /*database*/
-        DBService dbService = new DBService();
+        DBServiceImpl dbService = new DBServiceImpl();
         dbService.printConnectInfo();
 
 
