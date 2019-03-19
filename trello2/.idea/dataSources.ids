@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - kanban@localhost" uuid="054952a8-ed03-4d2c-ba32-dacf9200d25e">
+    <database-info product="MySQL" version="5.6.43-log" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.46 ( Revision: 9cc87a48e75c2d2e87c1a293b2862ce651cb256e )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower"/>
+    <database-model serializer="dbm" rdbms="MYSQL" format-version="2.6">
+      <schema id="1" name="kanban">
+        <visible>1</visible>
+      </schema>
+      <schema id="2" name="information_schema"/>
+      <schema id="3" name="mysql"/>
+      <schema id="4" name="performance_schema"/>
+      <schema id="5" name="sakila"/>
+      <schema id="6" name="test"/>
+      <schema id="7" name="test_1"/>
+      <schema id="8" name="world"/>
+      <table id="9" parent="1" name="decks"/>
+      <table id="10" parent="1" name="records"/>
+      <table id="11" parent="1" name="users"/>
+      <column id="12" parent="9" name="deck_id">
+        <mandatory>1</mandatory>
+        <data-type>int(11)|0</data-type>
+        <sequence-identity>1</sequence-identity>
+      </column>
+      <column id="13" parent="9" name="user_id">
+        <mandatory>1</mandatory>
+        <data-type>int(11)|0</data-type>
+      </column>
+      <column id="14" parent="9" name="name">
+        <mandatory>1</mandatory>
+        <data-type>varchar(100)|0</data-type>
+      </column>
+      <index id="15" parent="9" name="userFK_idx">
+        <columns>user_id</columns>
+        <desc-columns></desc-columns>
+      </index>
+      <key id="16" parent="9" name="PRIMARY">
+        <columns>deck_id</columns>
+        <primary>1</primary>
+      </key>
+      <foreign-key id="17" parent="9" name="userFK">
+        <columns>user_id</columns>
+        <ref-key>~.users.PRIMARY</ref-key>
+        <cascade-update-rule>no_action</cascade-update-rule>
+        <cascade-delete-rule>no_action</cascade-delete-rule>
+      </foreign-key>
+      <column id="18" parent="10" name="record_id">
+        <mandatory>1</mandatory>
+        <data-type>int(11)|0</data-type>
+      </column>
+      <column id="19" parent="10" name="deck_id">
+        <mandatory>1</mandatory>
+        <data-type>int(11)|0</data-type>
+      </column>
+      <column id="20" parent="10" name="text">
+        <mandatory>1</mandatory>
+        <data-type>varchar(1000)|0</data-type>
+      </column>
+      <column id="21" parent="10" name="status">
+        <mandatory>1</mandatory>
+        <data-type>varchar(45)|0</data-type>
+      </column>
+      <index id="22" parent="10" name="DeckFK_idx">
+        <columns>deck_id</columns>
+        <desc-columns></desc-columns>
+      </index>
+      <key id="23" parent="10" name="PRIMARY">
+        <columns>record_id</columns>
+        <primary>1</primary>
+      </key>
+      <foreign-key id="24" parent="10" name="DeckFK">
+        <columns>deck_id</columns>
+        <ref-key>~.decks.PRIMARY</ref-key>
+        <cascade-update-rule>no_action</cascade-update-rule>
+        <cascade-delete-rule>no_action</cascade-delete-rule>
+      </foreign-key>
+      <column id="25" parent="11" name="user_id">
+        <mandatory>1</mandatory>
+        <data-type>int(11)|0</data-type>
+        <sequence-identity>1</sequence-identity>
+      </column>
+      <column id="26" parent="11" name="email">
+        <mandatory>1</mandatory>
+        <data-type>varchar(90)|0</data-type>
+      </column>
+      <column id="27" parent="11" name="password">
+        <mandatory>1</mandatory>
+        <data-type>varchar(12)|0</data-type>
+      </column>
+      <column id="28" parent="11" name="sessionid">
+        <mandatory>1</mandatory>
+        <data-type>int(11)|0</data-type>
+      </column>
+      <key id="29" parent="11" name="PRIMARY">
+        <columns>user_id</columns>
+        <primary>1</primary>
+      </key>
+    </database-model>
+  </data-source>
+</component>
