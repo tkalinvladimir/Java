@@ -6,7 +6,7 @@
 
     <servlet>
         <servlet-name>RegisterServlet</servlet-name>
-        <servlet-class>RegisterServlet</servlet-class>
+        <servlet-class>trello2.RegisterServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
