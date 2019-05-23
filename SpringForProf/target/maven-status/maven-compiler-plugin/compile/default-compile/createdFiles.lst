@@ -1,0 +1,6 @@
+HelloWorldMessageProvider.class
+HelloWorldConfiguration.class
+MessageProvider.class
+MessageRenderer.class
+StandartOutMessageRenderer.class
+HelloWorldSpring.class

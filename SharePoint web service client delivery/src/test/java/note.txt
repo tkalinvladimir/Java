@@ -1,0 +1,24 @@
+
+First, create the binding file, naming it binding.xjb and put it in src/bindings:
+<jaxb:bindings version="2.1" xmlns:jaxb="http://java.sun.com/xml/ns/jaxb"
+        xmlns:xjc="http://java.sun.com/xml/ns/jaxb/xjc" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+        <jaxb:globalBindings generateElementProperty="false" />
+</jaxb:bindings>
+
+Next, you need to configure the jaxws-maven-plugin to use the bindings file:
+<plugin>
+  <groupId>org.jvnet.jax-ws-commons</groupId>
+  <artifactId>jaxws-maven-plugin</artifactId>
+  <version>2.2.1</version>
+  <configuration>
+    <bindingFiles>
+      <bindingFile>${basedir}/src/bindings/binding.xjb</bindingFile>
+    </bindingFiles>
+  </configuration>
+  ...
+</plugin>
+
+And that’s it. The previous configurations is what is necessary to avoid exposing JAXBElement type methods. Notice also that the configuration we made with maven forces the wsimport command to use the -b flag, similarly to:
+wsimport -keep -s ./generated-sources -d target/classes -Xnocompile \
+-wsdllocation http://<wsdlURL>?wsdl -b src/bindings/binding.xjb \
+file:/src/wsdl/MyWSDL.wsdl
