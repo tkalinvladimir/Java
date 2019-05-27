@@ -2,532 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8adbf5a-73e5-42dd-bf35-fd052f7caa28" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../111/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../111/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../111/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../111/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../111/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../111/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../111/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_14_v20181114.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../111/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_14_v20181114.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../111/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_4_14_v20181114.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../111/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_14_v20181114.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../111/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../111/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../111/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../111/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../111/111.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../111/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../111/src/main/java/111/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../111/src/test/java/111/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../123123123/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../123123123/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../123123123/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../123123123/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../123123123/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../123123123/.idea/libraries/Maven__org_springframework_spring_aop_4_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../123123123/.idea/libraries/Maven__org_springframework_spring_beans_4_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../123123123/.idea/libraries/Maven__org_springframework_spring_context_4_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../123123123/.idea/libraries/Maven__org_springframework_spring_core_4_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../123123123/.idea/libraries/Maven__org_springframework_spring_expression_4_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../123123123/.idea/libraries/Maven__org_springframework_spring_web_4_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../123123123/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../123123123/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../123123123/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../123123123/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../123123123/123123123.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../123123123/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../123123123/src/main/java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../123123123/target/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/artifacts/124214_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__com_sun_faces_jsf_api_2_2_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__com_sun_faces_jsf_impl_2_2_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__log4j_log4j_1_2_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__opensymphony_ognl_2_6_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__org_primefaces_primefaces_5_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__org_springframework_security_spring_security_config_3_2_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__org_springframework_security_spring_security_core_3_2_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__org_springframework_security_spring_security_web_3_2_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__org_springframework_spring_aop_4_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__org_springframework_spring_beans_4_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__org_springframework_spring_context_4_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__org_springframework_spring_core_4_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__org_springframework_spring_expression_4_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__org_springframework_spring_orm_4_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__org_springframework_spring_tx_4_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__org_springframework_spring_web_4_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__org_springframework_webflow_spring_binding_2_4_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__org_springframework_webflow_spring_faces_2_4_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__org_springframework_webflow_spring_js_2_4_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__org_springframework_webflow_spring_js_resources_2_4_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Maven__org_springframework_webflow_spring_webflow_2_4_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/Mojarra_2_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/libraries/PrimeFaces_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/124214.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/lib/javax.faces-2.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/lib/jstl-1.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/lib/primefaces-6.1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/lib/primefaces-6.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../124214/web/index.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../132/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../132/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../132/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../132/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../132/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../132/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../132/132.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../132/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/artifacts/213213_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__com_sun_faces_jsf_api_2_2_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__com_sun_faces_jsf_impl_2_2_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__log4j_log4j_1_2_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__opensymphony_ognl_2_6_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__org_primefaces_primefaces_5_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__org_springframework_security_spring_security_config_3_2_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__org_springframework_security_spring_security_core_3_2_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__org_springframework_security_spring_security_web_3_2_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__org_springframework_spring_aop_4_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__org_springframework_spring_beans_4_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__org_springframework_spring_context_4_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__org_springframework_spring_core_4_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__org_springframework_spring_expression_4_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__org_springframework_spring_orm_4_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__org_springframework_spring_tx_4_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__org_springframework_spring_web_4_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__org_springframework_webflow_spring_binding_2_4_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__org_springframework_webflow_spring_faces_2_4_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__org_springframework_webflow_spring_js_2_4_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__org_springframework_webflow_spring_js_resources_2_4_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/libraries/Maven__org_springframework_webflow_spring_webflow_2_4_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/213213.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/web/WEB-INF/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../213213/web/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/.idea/ant.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/.idea/scopes/scope_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/compile-java.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/compile-java.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/java-cgdk.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/game.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/local-runner-console.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/local-runner-console.default.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/local-runner-console.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/local-runner-replay.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/local-runner-replay.default.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/local-runner-replay.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/local-runner-sync.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/local-runner-sync.default.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/local-runner-sync.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/local-runner.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/local-runner.default.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/local-runner.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/local-runner.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/LocalTestRendererListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/compile.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/model/ActionType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/model/Bonus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/model/BonusType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/model/Building.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/model/BuildingType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/model/CircularUnit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/model/Faction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/model/Game.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/model/LaneType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/model/LivingUnit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/model/Message.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/model/Minion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/model/MinionType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/model/Player.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/model/Projectile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/model/ProjectileType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/model/SkillType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/model/Status.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/model/StatusType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/model/Tree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/model/Unit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/model/Wizard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/model/World.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/plugins/wipe.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/read.me" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/localrunner/result.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/make.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/MyStrategy$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/MyStrategy$Point2D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/MyStrategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/RemoteProcessClient$ElementReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/RemoteProcessClient$ElementWriter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/RemoteProcessClient$MessageType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/RemoteProcessClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/Runner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/Strategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/model/ActionType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/model/Bonus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/model/BonusType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/model/Building.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/model/BuildingType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/model/CircularUnit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/model/Faction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/model/Game.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/model/LaneType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/model/LivingUnit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/model/Message.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/model/Minion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/model/MinionType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/model/Move.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/model/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/model/PlayerContext.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/model/Projectile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/model/ProjectileType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/model/SkillType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/model/Status.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/model/StatusType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/model/Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/model/Unit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/model/Wizard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/out/production/java-cgdk/model/World.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/repeater/repeater.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/repeater/repeater.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/repeater/repeater.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/MyStrategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/RemoteProcessClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/Runner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/Strategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/model/ActionType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/model/Bonus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/model/BonusType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/model/Building.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/model/BuildingType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/model/CircularUnit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/model/Faction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/model/Game.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/model/LaneType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/model/LivingUnit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/model/Message.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/model/Minion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/model/MinionType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/model/Move.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/model/Player.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/model/PlayerContext.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/model/Projectile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/model/ProjectileType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/model/SkillType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/model/Status.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/model/StatusType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/model/Tree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/model/Unit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/model/Wizard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/src/main/java/model/World.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyStrategy/wipe.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrelloApp/MyTrelloApp.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrelloApp/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrelloApp/src/main/java/net/tkalin/mytrelloapp/dao/RoleDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrelloApp/src/main/java/net/tkalin/mytrelloapp/dao/UserDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrelloApp/src/main/java/net/tkalin/mytrelloapp/model/Role.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrelloApp/src/main/java/net/tkalin/mytrelloapp/model/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrelloApp/src/main/java/net/tkalin/mytrelloapp/service/UserDetailsServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrelloApp/src/main/java/net/tkalin/mytrelloapp/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrelloApp/src/main/java/net/tkalin/mytrelloapp/service/UserServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrelloApp/src/main/resources/database.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrelloApp/src/main/resources/database.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrelloApp/src/main/resources/logback.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrelloApp/src/main/resources/validation.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrelloApp/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrelloApp/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrelloApp/target/MyTrelloApp/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrelloApp/target/MyTrelloApp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrelloApp/target/MyTrelloApp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_34.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_34.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_34.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_17_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_2_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_12_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_javassist_javassist_3_22_0_GA.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_jboss_jandex_2_0_3_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_postgresql_postgresql_42_2_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_10_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_0_10_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_0_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_0_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_0_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_spring_aop_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_spring_aspects_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_spring_beans_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_spring_context_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_spring_core_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_spring_expression_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_spring_orm_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_spring_tx_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_spring_web_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/MyTrello_letscode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/src/main/java/com/tkalin/MyTrello_letscode/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/src/main/java/com/tkalin/MyTrello_letscode/config/MvcConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/src/main/java/com/tkalin/MyTrello_letscode/config/WebSecurityConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/src/main/java/com/tkalin/MyTrello_letscode/controller/MainController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/src/main/java/com/tkalin/MyTrello_letscode/controller/RegistrationController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/src/main/java/com/tkalin/MyTrello_letscode/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/src/main/java/com/tkalin/MyTrello_letscode/domain/Message.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/src/main/java/com/tkalin/MyTrello_letscode/domain/Role.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/src/main/java/com/tkalin/MyTrello_letscode/domain/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/src/main/java/com/tkalin/MyTrello_letscode/repos/MessageRepo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/src/main/java/com/tkalin/MyTrello_letscode/repos/UserRepo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/src/main/java/com/tkalin/MyTrello_letscode/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/src/main/resources/templates/greeting.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/src/main/resources/templates/login.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/src/main/resources/templates/main.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/src/main/resources/templates/parts/common.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/src/main/resources/templates/parts/login.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/src/main/resources/templates/registration.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/src/main/resources/templates/userEdit.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/src/main/resources/templates/userList.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/target/classes/com/tkalin/MyTrello_letscode/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/target/classes/com/tkalin/MyTrello_letscode/config/MvcConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/target/classes/com/tkalin/MyTrello_letscode/config/WebSecurityConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/target/classes/com/tkalin/MyTrello_letscode/controller/MainController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/target/classes/com/tkalin/MyTrello_letscode/controller/RegistrationController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/target/classes/com/tkalin/MyTrello_letscode/domain/Message.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/target/classes/com/tkalin/MyTrello_letscode/domain/Role.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/target/classes/com/tkalin/MyTrello_letscode/domain/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/target/classes/com/tkalin/MyTrello_letscode/repos/MessageRepo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/target/classes/com/tkalin/MyTrello_letscode/repos/UserRepo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/target/classes/com/tkalin/MyTrello_letscode/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/target/classes/templates/greeting.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/target/classes/templates/login.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/target/classes/templates/main.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/target/classes/templates/parts/common.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/target/classes/templates/parts/login.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyTrello_letscode/target/classes/templates/registration.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleWebService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleWebService/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/SpringForProf.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebServer - JDBC - Hibernate/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebServer - JDBC - Hibernate/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebServer - JDBC - Hibernate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebServer - JDBC - Hibernate/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebServer - JDBC - Hibernate/222.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebServer - JDBC - Hibernate/222.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__com_samskivert_jmustache_1_14.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_35.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_34.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_34.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_34.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_17_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_2_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_12_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_javassist_javassist_3_22_0_GA.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_jboss_jandex_2_0_3_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_mustache_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_10_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_0_10_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_spring_aop_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_spring_aspects_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_spring_beans_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_spring_context_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_spring_core_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_spring_expression_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_spring_orm_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_spring_tx_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_spring_web_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/mytrello.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/src/main/java/com/mytrello/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/src/main/java/com/mytrello/GreetingController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/src/main/java/com/mytrello/domain/Message.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/src/main/java/com/mytrello/repos/MessageRepo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/src/main/resources/templates/greeting.mustache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/src/main/resources/templates/help.mustache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/src/main/resources/templates/main.mustache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/target/classes/com/mytrello/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/target/classes/com/mytrello/GreetingController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/target/classes/com/mytrello/domain/Message.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/target/classes/com/mytrello/repos/MessageRepo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/target/classes/templates/greeting.mustache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/target/classes/templates/help.mustache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mytrello/target/classes/templates/main.mustache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_sbt_tinkoff/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_sbt_tinkoff/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_sbt_tinkoff/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_sbt_tinkoff/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_sbt_tinkoff/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_sbt_tinkoff/.idea/modules/scala_sbt_tinkoff.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_sbt_tinkoff/.idea/sbt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_sbt_tinkoff/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_sbt_tinkoff/build.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_sbt_tinkoff/project/build.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_sbt_tinkoff/project/plugins.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_sbt_tnkff/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_sbt_tnkff/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_sbt_tnkff/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_sbt_tnkff/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_sbt_tnkff/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_sbt_tnkff/.idea/modules/scala_sbt_tnkff.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_sbt_tnkff/.idea/sbt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_sbt_tnkff/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_sbt_tnkff/build.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_sbt_tnkff/project/build.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_sbt_tnkff/project/plugins.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_tinkoff/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_tinkoff/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_tinkoff/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_tinkoff/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_tinkoff/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_tinkoff/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_tinkoff/hi.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_tinkoff/out/production/scala_tinkoff/bool_count$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_tinkoff/out/production/scala_tinkoff/bool_count$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_tinkoff/out/production/scala_tinkoff/bool_count.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_tinkoff/out/production/scala_tinkoff/test$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_tinkoff/out/production/scala_tinkoff/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_tinkoff/scala_tinkoff.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_tinkoff/src/bool_count.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_tinkoff/src/newcl.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_tinkogg/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_tinkogg/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_tinkogg/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_tinkogg/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_tinkogg/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_tinkogg/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala_tinkogg/scala_tinkogg.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HelloWorldConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HelloWorldMessageProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HelloWorldSpring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MessageProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MessageRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StandartOutMessageRenderer.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -542,7 +23,7 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -555,12 +36,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorldConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="221">
               <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#276#277#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -591,7 +70,7 @@
               <caret column="21" selection-start-column="21" selection-end-column="21" />
               <folding>
                 <element signature="e#100#101#0" expanded="true" />
-                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#136#137#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -600,7 +79,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorldSpring.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="153">
               <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -616,11 +95,7 @@
               <caret column="20" selection-start-column="20" selection-end-column="20" />
               <folding>
                 <element signature="e#140#141#0" expanded="true" />
-                <element signature="e#158#159#0" expanded="true" />
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
-                <element signature="e#265#266#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -674,7 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -688,8 +163,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -776,31 +251,23 @@
       <option name="presentableId" value="Default" />
       <updated>1558408792972</updated>
       <workItem from="1558408795655" duration="7066000" />
+      <workItem from="1558999583708" duration="80000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7066000" />
+    <option name="totallyTimeSpent" value="7146000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32908913" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.32908913" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32908913" />
@@ -808,26 +275,53 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32908913" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32908913" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorld.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorld.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/app-context.xml" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorldConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MessageProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -838,10 +332,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MessageProvider.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorldMessageProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorldSpring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -857,53 +365,6 @@
             <element signature="e#238#239#0" expanded="true" />
             <element signature="e#265#266#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorldMessageProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-          <folding>
-            <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/app-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorldConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorldSpring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
